@@ -1,0 +1,17 @@
+package p005b.p096l.p232f;
+
+/* renamed from: b.l.f.g */
+public enum C4613g {
+    ERROR_CORRECTION,
+    CHARACTER_SET,
+    DATA_MATRIX_SHAPE,
+    MIN_SIZE,
+    MAX_SIZE,
+    MARGIN,
+    PDF417_COMPACT,
+    PDF417_COMPACTION,
+    PDF417_DIMENSIONS,
+    AZTEC_LAYERS,
+    QR_VERSION,
+    GS1_FORMAT
+}

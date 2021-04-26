@@ -1,0 +1,22 @@
+package p005b.p096l.p097a.p113c.p131e.p136e;
+
+import p005b.p096l.p097a.p113c.p119b.p120l.p121k.C1842m;
+import p005b.p096l.p097a.p113c.p150j.C3429i;
+
+/* renamed from: b.l.a.c.e.e.qh */
+public final /* synthetic */ class C2432qh implements C1842m {
+
+    /* renamed from: a */
+    public final C2456rh f4236a;
+
+    public C2432qh(C2456rh rhVar) {
+        this.f4236a = rhVar;
+    }
+
+    /* renamed from: a */
+    public final void mo12153a(Object obj, Object obj2) {
+        C2456rh rhVar = this.f4236a;
+        rhVar.f3689o = new C2066bj(rhVar, (C3429i) obj2);
+        ((C2040ai) obj).mo12394k().mo12535x(rhVar.f4264p, rhVar.f3676b);
+    }
+}
